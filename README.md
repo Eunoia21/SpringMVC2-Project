@@ -26,7 +26,7 @@ RDS 환경에서 Oracledb를 사용하였습니다.
 
 프론트엔드 : `React.js`  
 백엔드 : `Spring Framework` `JPA` `AWS RDS(Oracledb)`
-협업 툴 : `github` `freedcamp`  
+협업 툴 : `github` `Discode` `slack`  
 
 <br/>
 
